@@ -1,0 +1,17 @@
+.delete_marker {
+  display: table-cell;
+  position: absolute;
+  left: 177px;
+  top: 10px;
+  height: 40px;
+  border: 0px;
+  margin: 0;
+  padding: 0 17px;
+  font-size: 18px;
+  color: rgb(86, 86, 86);
+  background: rgb(255, 255, 255);
+  box-shadow: rgba(0, 0, 0, 0.3) 0px 1px 4px -1px;
+  vertical-align: middle;
+  text-transform: none;
+  cursor: pointer;
+}
